@@ -2,7 +2,8 @@
 
 🎯 Senior Machine Learning Engineer | Technical Lead | AI Researcher  
 📍 Based in Dhaka, Bangladesh  
-🔬 Passionate about building intelligent systems, solving real-world problems with ML/AI, and leading innovative engineering teams.
+🔬 Passionate about building intelligent systems, solving real-world problems with ML/AI, and leading innovative engineering teams.  
+🌐 Portfolio: [portfolio-aumk.onrender.com](https://portfolio-aumk.onrender.com/)
 
 ---
 
@@ -40,6 +41,7 @@ My focus areas include:
 
 ## 📫 Contact Me
 
+- 🌐 Portfolio: [portfolio-aumk.onrender.com](https://portfolio-aumk.onrender.com)  
 - ✉️ Email: [akkaium33@gmail.com](mailto:akkaium33@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/ab-kaium](https://www.linkedin.com/in/ab-kaium/)  
 - 🧠 LeetCode: [leetcode.com/Qyum](https://leetcode.com/Qyum)  
@@ -62,7 +64,5 @@ LangChain-based chatbot for personalized medical Q&A — 92% user satisfaction.
 Deep learning and collaborative filtering models recommending top hotels and products — 95% accuracy.
 
 ---
-Portfolio: https://portfolio-aumk.onrender.com/
+
 Thanks for visiting my profile! Feel free to connect and collaborate 🚀
-
-
