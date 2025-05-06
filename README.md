@@ -10,11 +10,11 @@
 
 ## 🚀 About Me
 
-I'm a senior machine learning engineer with 5+ years of experience in delivering real-world AI solutions. I specialize in designing and deploying systems that power fraud detection, speech recognition, personalized recommendation engines, and generative AI.
+I'm a senior machine learning engineer with 6+ years of experience in delivering real-world AI solutions. I specialize in designing and deploying systems that power fraud detection, speech recognition, personalized recommendation engines, and generative AI.
 
 ### 🧩 Core Focus Areas
 - 🧠 **Conversational AI Agents:** Real-time human-like AI interactions for healthcare and enterprise  
-  📹 [Watch Demo Video](https://drive.google.com/file/d/1aNS7xBSz_3QeZMofqmCdrxAsSQMEXlq0/view?usp=sharing)  
+  📹 [Watch Demo Video](https://drive.google.com/file/d/1v3gABoQnQUjvSg7V52t39aWrhHR1_4ES/view?usp=sharing)  
 - 🤖 **LLMs & Chatbots:** LangChain, Transformers, OpenAI APIs  
 - 🧠 **Speech Recognition:** Custom Bengali STT using Wav2Vec2  
 - 🔐 **Fraud Detection:** Graph Neural Networks + Gated Models  
