@@ -47,7 +47,7 @@ I'm a senior machine learning engineer with 6+ years of experience in delivering
 |--------|-------------|------|
 | 🔍 **Forgery Detection** | Deep learning + EfficientNet to detect facial manipulation with 80% accuracy | `TensorFlow`, `CNN`, `Augmentation` |
 | 🧾 **Bengali STT System** | Custom Wav2Vec Transformer with 5% WER reduction | `PyTorch`, `Transformers`, `Audio ML` |
-| 🧠 **Medical Chatbot** | LangChain-powered chatbot for patient interaction | `LLMs`, `LangChain`, `FastAPI` |
+| 🧠 **Medical Chatbot** | LLM,LangChain-powered chatbot for patient interaction | `LLMs`, `LangChain`, `FastAPI` |
 | 📊 **Recommendation Engine** | Collaborative filtering for hotel and product recs | `Deep Learning`, `SVD`, `Metrics` |
 
 ---
@@ -73,5 +73,5 @@ I'm a senior machine learning engineer with 6+ years of experience in delivering
 ---
 
 > 🔍 *“The best way to predict the future is to invent it.” – Alan Kay*  
-> Let's build the future with AI 🤝
+
 
