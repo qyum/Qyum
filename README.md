@@ -1,4 +1,4 @@
-# 👋 Hi, I'm AB Kaium
+# 👋 Hi, I'm AB Qyum
 
 🎯 Senior Machine Learning Engineer | Technical Lead | AI Researcher  
 📍 Based in Dhaka, Bangladesh  
@@ -42,7 +42,7 @@ My focus areas include:
 ## 📫 Contact Me
 
 - 🌐 Portfolio: [portfolio-aumk.onrender.com](https://portfolio-aumk.onrender.com)  
-- ✉️ Email: [akkaium33@gmail.com](mailto:akkaium33@gmail.com)  
+- ✉️ Email: [akkaium33@gmail.com](mailto:qyumdunk@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/ab-kaium](https://www.linkedin.com/in/ab-kaium/)  
 - 🧠 LeetCode: [leetcode.com/Qyum](https://leetcode.com/Qyum)  
 - 🐙 GitHub: [github.com/Qyum](https://github.com/Qyum)
