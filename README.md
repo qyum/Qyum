@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#4CAF50">AB Kaium</span></h1>
 
 <p align="center">
-  🎯 <strong>Senior Machine Learning Engineer | Technical Lead | AI Researcher</strong><br>
+  🎯 <strong>Senior Machine Learning Engineer(TL) | Ex-CTO Fixelgraphix | AI Researcher</strong><br>
   📍 Dhaka, Bangladesh<br>
   🌐 <a href="https://portfolio-aumk.onrender.com" target="_blank"><strong>Portfolio</strong></a>
 </p>
